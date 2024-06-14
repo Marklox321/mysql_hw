@@ -117,11 +117,11 @@ INSERT INTO `movies` VALUES (1,'Побег из Шоушенка',1994,92,1,1,1)
 UNLOCK TABLES;
 
 --
--- Dumping events for database 'db_3839'
+-- Dumping events for database 'db_cc3839'
 --
 
 --
--- Dumping routines for database 'db_3839'
+-- Dumping routines for database 'db_cc3839'
 --
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
